@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Basita 👋
 
-<!--
-**basita-das/basita-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergrad at NIT Agartala  
+💻 Passionate about full-stack development, AI, and open source  
+📷 Lead Photographer | Event Organizer  
+🌱 Currently learning React, Node.js, and Cloud Technologies  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/basita-das-b70932316/)
 
-Here are some ideas to get you started:
+<!-- GitHub stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basita-das&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basita-das&layout=compact)
