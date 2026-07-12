@@ -1,29 +1,36 @@
 <div align="center">
 
-<!-- 1. Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=250&section=header&text=Basita%20Das&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20System%20Design&descAlignY=55&descAlign=62" width="100%" alt="Header" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineering;Building+Scalable+Database-Driven+Systems;LLM+%26+Backend+API+Integration;B.Tech+CSE+%40+NIT+Agartala" alt="Typing SVG" />
+<!-- 1. Animated Header Section -->
+<div align="center">
+
+<!-- 1. Animated Header Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=250&section=header&text=Basita%20Das&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20System%20Design&descAlign=50&descAlignY=55" width="100%" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineering;Building+Scalable+Database-Driven+Systems;LLM+%26+Backend+API+Integration;B.Tech+CSE+%40+NIT+Agartala" alt="Typing SVG" />
 
 <br/>
 
+
+
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE-NIT%20Agartala-4B0082?style=for-the-badge&logo=probot&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Agartala,%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/B.Tech_CSE-NIT%20Agartala-106A37?style=for-the-badge&logo=probot&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Agartala,%20India-106A37?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:basitadas16@gmail.com"><img src="https://img.shields.io/badge/Gmail-9400D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a> -->
+  <a href="https://www.linkedin.com/in/basita-das-b70932316/"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:basitadas16@gmail.com"><img src="https://img.shields.io/badge/Gmail-197841?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/basita-das"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=basita-das&label=Profile%20Views&color=7B68EE&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/basita-das?label=Followers&style=for-the-badge&color=4B0082" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/basita-das?style=for-the-badge&color=9400D3" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=basita-das&label=Profile%20Views&color=2EA043&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/basita-das?label=Followers&style=for-the-badge&color=238636" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/basita-das?style=for-the-badge&color=106A37" alt="Stars" />
 </p>
 
 </div>
