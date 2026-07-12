@@ -66,9 +66,9 @@ Final year B.Tech Computer Science and Engineering student at NIT Agartala with 
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **LLM Integration** | `Intermediate` | Engineering an LLM-powered Text-to-SQL engine to translate natural language queries directly into executable SQL[cite: 1]. |
-| **API Engineering** | `Advanced` | Building backend APIs to validate dynamically generated queries against database schemas, accelerating data retrieval times[cite: 1]. |
-| **System Design** | `Intermediate` | Applying LLD and HLD principles to architect scalable, resilient backend infrastructure and real-time state management[cite: 1]. |
+| **LLM Integration** | `Intermediate` | Engineering an LLM-powered Text-to-SQL engine to translate natural language queries directly into executable SQL. |
+| **API Engineering** | `Advanced` | Building backend APIs to validate dynamically generated queries against database schemas, accelerating data retrieval times.|
+| **System Design** | `Intermediate` | Applying LLD and HLD principles to architect scalable, resilient backend infrastructure and real-time state management. |
 
 </div>
 
